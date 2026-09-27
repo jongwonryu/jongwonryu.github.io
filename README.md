@@ -25,7 +25,7 @@ Multimodal reasoning · Image generation · Language models
 | Period | Position | Institution | Research advisor |
 | --- | --- | --- | --- |
 | Jul – Aug 2026 | Visiting Researcher | Kyoto Institute of Technology, Japan | Prof. Dongeun Choi |
-| Jul – Aug 2026 | Visiting Researcher | Kyoto Prefectural Institute for Northern Industry, Japan | — |
+| Jul – Aug 2026 | Visiting Researcher | Kyoto Prefectural Institute for Northern Industry, Japan | Prof. Dongeun Choi |
 
 ## Research Projects
 
