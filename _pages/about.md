@@ -42,34 +42,24 @@ redirect_from:
 
 <p class="cv-note">* Equal contribution. Journal and conference papers are listed separately from workshop and domestic conference papers.</p>
 
-### Venue metrics
-
-| Venue | Metric | Source |
-|:--|:--|:--|
-| IEEE Access | Journal Impact Factor **4.2** (2025 JCR; a journal-level metric) | [IEEE Access bibliometrics](https://ieeeaccess.ieee.org/about/bibliometrics/) |
-| EACL | **A** (ICORE 2026 conference ranking) | [ICORE conference record](https://portal.core.edu.au/conf-ranks/468/) |
-| ICPR | **B** (ICORE 2026 conference ranking) | [ICORE conference record](https://portal.core.edu.au/conf-ranks/1169/) |
-
-<p class="cv-note">These describe the publication venues, not the quality or citation impact of an individual paper. Workshop papers do not inherit the main conference's rank. Other venues are left unranked here where an exact ICORE listing was not confirmed.</p>
-
 ### 2026
 
 **Journal**
 
-1. **Jongwon Ryu***, Jaehoon Go*, Trung X. Pham, and Junyeong Kim. “[MIST: Multi-Domain Synthetic Dataset for Rural Driving](https://doi.org/10.1109/ACCESS.2026.3725755).” *IEEE Access*.
+1. **Jongwon Ryu***, Jaehoon Go*, Trung X. Pham, and Junyeong Kim. “[MIST: Multi-Domain Synthetic Dataset for Rural Driving](https://doi.org/10.1109/ACCESS.2026.3725755).” *IEEE Access* ([2025 JCR IF: 4.2](https://ieeeaccess.ieee.org/about/bibliometrics/)).
 
 **International conferences**
 
-1. **Jongwon Ryu***, Joonhyung Park*, Jaeho Han, Yeong-Seok Kim, Hye-Rin Kim, Sunjae Yoon, and Junyeong Kim. “[Language-Grounded Multi-Domain Image Translation via Semantic Difference Guidance](https://aclanthology.org/2026.eacl-long.294/).” *EACL (Long Papers)*, pp. 6276–6288.
-2. Jisoo Yang*, **Jongwon Ryu***, Minuk Ma, Trung X. Pham, and Junyeong Kim. “[The Pragmatic Persona: Discovering LLM Persona Through Bridging Inference](https://doi.org/10.1007/978-3-032-31438-3_6).” *ICPR*, pp. 76–90.
+1. **Jongwon Ryu***, Joonhyung Park*, Jaeho Han, Yeong-Seok Kim, Hye-Rin Kim, Sunjae Yoon, and Junyeong Kim. “[Language-Grounded Multi-Domain Image Translation via Semantic Difference Guidance](https://aclanthology.org/2026.eacl-long.294/).” *EACL (Long Papers)* ([ICORE 2026: A](https://portal.core.edu.au/conf-ranks/468/)), pp. 6276–6288.
+2. Jisoo Yang*, **Jongwon Ryu***, Minuk Ma, Trung X. Pham, and Junyeong Kim. “[The Pragmatic Persona: Discovering LLM Persona Through Bridging Inference](https://doi.org/10.1007/978-3-032-31438-3_6).” *ICPR* ([ICORE 2026: B](https://portal.core.edu.au/conf-ranks/1169/)), pp. 76–90.
 
 ### 2025
 
 **Journals**
 
-1. **Jongwon Ryu**, Mingi Kim, and Junyeong Kim. “[Sparse MoE Students for Efficient Knowledge Distillation](https://doi.org/10.1109/ACCESS.2025.3623953).” *IEEE Access*, vol. 13, pp. 187373–187382.
-2. **Jongwon Ryu**, Mingi Kim, and Junyeong Kim. “[DYNA-SKILL: Dynamic Self-Prompting Knowledge Graphs for Improving Logical Reasoning in Language Models](https://doi.org/10.1109/ACCESS.2025.3626479).” *IEEE Access*, vol. 13, pp. 188326–188334.
-3. Mingi Kim, **Jongwon Ryu**, and Junyeong Kim. “Improving Worst-Group Accuracy With a Filtering-Based Method.” *IEEE Access*, vol. 13, pp. 214201–214210.
+1. **Jongwon Ryu**, Mingi Kim, and Junyeong Kim. “[Sparse MoE Students for Efficient Knowledge Distillation](https://doi.org/10.1109/ACCESS.2025.3623953).” *IEEE Access* ([2025 JCR IF: 4.2](https://ieeeaccess.ieee.org/about/bibliometrics/)), vol. 13, pp. 187373–187382.
+2. **Jongwon Ryu**, Mingi Kim, and Junyeong Kim. “[DYNA-SKILL: Dynamic Self-Prompting Knowledge Graphs for Improving Logical Reasoning in Language Models](https://doi.org/10.1109/ACCESS.2025.3626479).” *IEEE Access* ([2025 JCR IF: 4.2](https://ieeeaccess.ieee.org/about/bibliometrics/)), vol. 13, pp. 188326–188334.
+3. Mingi Kim, **Jongwon Ryu**, and Junyeong Kim. “Improving Worst-Group Accuracy With a Filtering-Based Method.” *IEEE Access* ([2025 JCR IF: 4.2](https://ieeeaccess.ieee.org/about/bibliometrics/)), vol. 13, pp. 214201–214210.
 
 **International workshops**
 
@@ -84,7 +74,7 @@ redirect_from:
 
 ### 2024
 
-1. **Jongwon Ryu**, Jungeun Kim, and Junyeong Kim. “[A Study on the Representativeness Heuristics Problem in Large Language Models](https://doi.org/10.1109/ACCESS.2024.3474677).” *IEEE Access*, vol. 12, pp. 147958–147966.
+1. **Jongwon Ryu**, Jungeun Kim, and Junyeong Kim. “[A Study on the Representativeness Heuristics Problem in Large Language Models](https://doi.org/10.1109/ACCESS.2024.3474677).” *IEEE Access* ([2025 JCR IF: 4.2](https://ieeeaccess.ieee.org/about/bibliometrics/)), vol. 12, pp. 147958–147966.
 2. **Jongwon Ryu** and Junyeong Kim. “The Relationship Between Embedding and Deductive Reasoning Ability on BERT.” *IEEE International Conference on Consumer Electronics (ICCE)*, pp. 1–4.
 
 ### 2023
