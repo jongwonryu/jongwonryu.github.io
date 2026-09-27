@@ -40,9 +40,9 @@ Multimodal reasoning · Image generation · Language models
 **2026 · Journal and conferences**
 
 1. **Jongwon Ryu**, Sunjae Yoon, and Junyeong Kim. “[Interactive 4D Volumetric Liquid Forecasting under Moving-Solid Interaction](https://neurips.cc/virtual/2026/poster/155706).” *NeurIPS 2026 (Main Track)* ([CORE Ranking 2026: A*](https://portal.core.edu.au/conf-ranks/98/)). Accepted.
-2. **Jongwon Ryu**<sup>*</sup>, Jaehoon Go<sup>*</sup>, Trung X. Pham, and Junyeong Kim. “[MIST: Multi-Domain Synthetic Dataset for Rural Driving](https://doi.org/10.1109/ACCESS.2026.3725755).” *IEEE Access* ([2025 JCR IF: 4.2](https://ieeeaccess.ieee.org/about/bibliometrics/)).
-3. **Jongwon Ryu**<sup>*</sup>, Joonhyung Park<sup>*</sup>, Jaeho Han, Yeong-Seok Kim, Hye-Rin Kim, Sunjae Yoon, and Junyeong Kim. “[Language-Grounded Multi-Domain Image Translation via Semantic Difference Guidance](https://aclanthology.org/2026.eacl-long.294/).” *EACL (Long Papers)* ([CORE Ranking 2026: A](https://portal.core.edu.au/conf-ranks/468/)), pp. 6276–6288.
-4. Jisoo Yang<sup>*</sup>, **Jongwon Ryu**<sup>*</sup>, Minuk Ma, Trung X. Pham, and Junyeong Kim. “[The Pragmatic Persona: Discovering LLM Persona Through Bridging Inference](https://doi.org/10.1007/978-3-032-31438-3_6).” *ICPR* ([CORE Ranking 2026: B](https://portal.core.edu.au/conf-ranks/1169/)), pp. 76–90.
+2. **Jongwon Ryu**<sup>&#42;</sup>, Jaehoon Go<sup>&#42;</sup>, Trung X. Pham, and Junyeong Kim. “[MIST: Multi-Domain Synthetic Dataset for Rural Driving](https://doi.org/10.1109/ACCESS.2026.3725755).” *IEEE Access* ([2025 JCR IF: 4.2](https://ieeeaccess.ieee.org/about/bibliometrics/)).
+3. **Jongwon Ryu**<sup>&#42;</sup>, Joonhyung Park<sup>&#42;</sup>, Jaeho Han, Yeong-Seok Kim, Hye-Rin Kim, Sunjae Yoon, and Junyeong Kim. “[Language-Grounded Multi-Domain Image Translation via Semantic Difference Guidance](https://aclanthology.org/2026.eacl-long.294/).” *EACL (Long Papers)* ([CORE Ranking 2026: A](https://portal.core.edu.au/conf-ranks/468/)), pp. 6276–6288.
+4. Jisoo Yang<sup>&#42;</sup>, **Jongwon Ryu**<sup>&#42;</sup>, Minuk Ma, Trung X. Pham, and Junyeong Kim. “[The Pragmatic Persona: Discovering LLM Persona Through Bridging Inference](https://doi.org/10.1007/978-3-032-31438-3_6).” *ICPR* ([CORE Ranking 2026: B](https://portal.core.edu.au/conf-ranks/1169/)), pp. 76–90.
 
 **2025 · Journals**
 
@@ -52,7 +52,7 @@ Multimodal reasoning · Image generation · Language models
 
 **2025 · International workshops**
 
-1. **Jongwon Ryu**<sup>*</sup>, Jisoo Yang<sup>*</sup>, Ye-eun Cho, and Junyeong Kim. “Discovering the Latent Persona of Large Language Models via Bridging Inference.” *NeurIPS Workshop on PersonaLLM*.
+1. **Jongwon Ryu**<sup>&#42;</sup>, Jisoo Yang<sup>&#42;</sup>, Ye-eun Cho, and Junyeong Kim. “Discovering the Latent Persona of Large Language Models via Bridging Inference.” *NeurIPS Workshop on PersonaLLM*.
 2. **Jongwon Ryu**, Mingyu Jeon, Soomin Chung, and Junyeong Kim. “Enhancing Trustworthiness of Large Language Models through Dynamic Knowledge Graph Reasoning.” *NeurIPS Workshop on Responsible Foundation Models*.
 3. **Jongwon Ryu**, Mingyu Jeon, Woojun Jung, Minuk Ma, and Junyeong Kim. “Sparse MoE Students for Efficient Knowledge Distillation.” *CVPR Workshop on Humans in Human-Robot Interaction*.
 4. **Jongwon Ryu** and Junyeong Kim. “DYNA-SKILL: Dynamic Self-Prompting Knowledge Graphs for Improving Logical Reasoning in Large Models.” *AAAI Workshop on AI for Research*.
