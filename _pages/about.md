@@ -44,15 +44,15 @@ redirect_from:
 
 ### 2026
 
-**Journal**
-
-1. **Jongwon Ryu**<sup>&#42;</sup>, Jaehoon Go<sup>&#42;</sup>, Trung X. Pham, and Junyeong Kim. “[MIST: Multi-Domain Synthetic Dataset for Rural Driving](https://doi.org/10.1109/ACCESS.2026.3725755).” *IEEE Access* ([2025 JCR IF: 4.2](https://ieeeaccess.ieee.org/about/bibliometrics/)).
-
 **International conferences**
 
 1. **Jongwon Ryu**, Sunjae Yoon, and Junyeong Kim. “[Interactive 4D Volumetric Liquid Forecasting under Moving-Solid Interaction](https://neurips.cc/virtual/2026/poster/155706).” *NeurIPS 2026 (Main Track)* ([CORE Ranking 2026: A*](https://portal.core.edu.au/conf-ranks/98/)). Accepted.
 2. **Jongwon Ryu**<sup>&#42;</sup>, Joonhyung Park<sup>&#42;</sup>, Jaeho Han, Yeong-Seok Kim, Hye-Rin Kim, Sunjae Yoon, and Junyeong Kim. “[Language-Grounded Multi-Domain Image Translation via Semantic Difference Guidance](https://aclanthology.org/2026.eacl-long.294/).” *EACL (Long Papers)* ([CORE Ranking 2026: A](https://portal.core.edu.au/conf-ranks/468/)), pp. 6276–6288.
 3. Jisoo Yang<sup>&#42;</sup>, **Jongwon Ryu**<sup>&#42;</sup>, Minuk Ma, Trung X. Pham, and Junyeong Kim. “[The Pragmatic Persona: Discovering LLM Persona Through Bridging Inference](https://doi.org/10.1007/978-3-032-31438-3_6).” *ICPR* ([CORE Ranking 2026: B](https://portal.core.edu.au/conf-ranks/1169/)), pp. 76–90.
+
+**Journal**
+
+1. **Jongwon Ryu**<sup>&#42;</sup>, Jaehoon Go<sup>&#42;</sup>, Trung X. Pham, and Junyeong Kim. “[MIST: Multi-Domain Synthetic Dataset for Rural Driving](https://doi.org/10.1109/ACCESS.2026.3725755).” *IEEE Access* ([2025 JCR IF: 4.2](https://ieeeaccess.ieee.org/about/bibliometrics/)).
 
 ### 2025
 
@@ -75,8 +75,13 @@ redirect_from:
 
 ### 2024
 
+**International conference**
+
+1. **Jongwon Ryu** and Junyeong Kim. “The Relationship Between Embedding and Deductive Reasoning Ability on BERT.” *IEEE International Conference on Consumer Electronics (ICCE)*, pp. 1–4.
+
+**Journal**
+
 1. **Jongwon Ryu**, Jungeun Kim, and Junyeong Kim. “[A Study on the Representativeness Heuristics Problem in Large Language Models](https://doi.org/10.1109/ACCESS.2024.3474677).” *IEEE Access* ([2025 JCR IF: 4.2](https://ieeeaccess.ieee.org/about/bibliometrics/)), vol. 12, pp. 147958–147966.
-2. **Jongwon Ryu** and Junyeong Kim. “The Relationship Between Embedding and Deductive Reasoning Ability on BERT.” *IEEE International Conference on Consumer Electronics (ICCE)*, pp. 1–4.
 
 ### 2023
 
