@@ -42,6 +42,16 @@ redirect_from:
 
 <p class="cv-note">* Equal contribution. Journal and conference papers are listed separately from workshop and domestic conference papers.</p>
 
+### Venue metrics
+
+| Venue | Metric | Source |
+|:--|:--|:--|
+| IEEE Access | Journal Impact Factor **4.2** (2025 JCR; a journal-level metric) | [IEEE Access bibliometrics](https://ieeeaccess.ieee.org/about/bibliometrics/) |
+| EACL | **A** (ICORE 2026 conference ranking) | [ICORE conference record](https://portal.core.edu.au/conf-ranks/468/) |
+| ICPR | **B** (ICORE 2026 conference ranking) | [ICORE conference record](https://portal.core.edu.au/conf-ranks/1169/) |
+
+<p class="cv-note">These describe the publication venues, not the quality or citation impact of an individual paper. Workshop papers do not inherit the main conference's rank. Other venues are left unranked here where an exact ICORE listing was not confirmed.</p>
+
 ### 2026
 
 **Journal**
