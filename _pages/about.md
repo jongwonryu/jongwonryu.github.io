@@ -11,7 +11,7 @@ redirect_from:
   <p class="cv-eyebrow">Research profile · Curriculum vitae</p>
   <h1>Jongwon Ryu <span>류종원</span></h1>
   <p class="cv-lead">Ph.D. student in Artificial Intelligence at Chung-Ang University, Seoul.</p>
-  <p>My research interests are <strong>multimodal reasoning</strong> and <strong>image generation</strong>. My work spans language-model reasoning, image translation, synthetic data, and physical-world modeling.</p>
+  <p>My research interests are <strong>multimodal reasoning</strong> and <strong>image generation</strong>. My work spans language-model reasoning and physical-world modeling.</p>
   <div class="cv-links"><a href="mailto:fbwhddnjs511@cau.ac.kr">Email ↗</a><a href="https://github.com/jongwonryu">GitHub ↗</a></div>
 </div>
 
