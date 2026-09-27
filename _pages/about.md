@@ -10,7 +10,7 @@ redirect_from:
 <div class="cv-intro" id="about">
   <p class="cv-eyebrow">Research profile · Curriculum vitae</p>
   <h1>Jongwon Ryu <span>류종원</span></h1>
-  <p class="cv-lead">Ph.D. student in Artificial Intelligence at Chung-Ang University, Seoul.</p>
+  <p class="cv-lead">Ph.D. student in Artificial Intelligence at Chung-Ang University, Seoul. Advised by Prof. Junyeong Kim.</p>
   <p>My research interests are <strong>multimodal reasoning</strong> and <strong>image generation</strong>. My work spans language-model reasoning and physical-world modeling.</p>
   <div class="cv-links"><a href="mailto:fbwhddnjs511@cau.ac.kr">Email ↗</a><a href="https://github.com/jongwonryu">GitHub ↗</a></div>
 </div>
@@ -25,10 +25,10 @@ redirect_from:
 
 ## Research experience {#experience}
 
-| Period | Role | Institution |
-|:--|:--|:--|
-| Jul – Aug 2026 | Visiting Researcher | Kyoto Institute of Technology, Japan |
-| Jul – Aug 2026 | Visiting Researcher | Kyoto Prefectural Institute for Northern Industry, Japan |
+| Period | Role | Institution | Research advisor |
+|:--|:--|:--|:--|
+| Jul – Aug 2026 | Visiting Researcher | Kyoto Institute of Technology, Japan | Prof. Dongeun Choi |
+| Jul – Aug 2026 | Visiting Researcher | Kyoto Prefectural Institute for Northern Industry, Japan | — |
 
 ## Research projects {#projects}
 

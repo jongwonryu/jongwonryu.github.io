@@ -6,7 +6,7 @@ Chung-Ang University · Seoul, Republic of Korea<br>
 
 ## About Me
 
-I am a Ph.D. student in Artificial Intelligence at Chung-Ang University. My research interests are **multimodal reasoning** and **image generation**, with work across language-model reasoning and physical-world modeling. I previously earned an M.S. in Artificial Intelligence at Chung-Ang University and a B.S. in Mathematics at Dankook University.
+I am a Ph.D. student in Artificial Intelligence at Chung-Ang University, advised by **Prof. Junyeong Kim**. My research interests are **multimodal reasoning** and **image generation**, with work across language-model reasoning and physical-world modeling. I previously earned an M.S. in Artificial Intelligence at Chung-Ang University and a B.S. in Mathematics at Dankook University.
 
 ## Research Interests
 
@@ -22,10 +22,10 @@ Multimodal reasoning · Image generation · Language models
 
 ## Research Experience
 
-| Period | Position | Institution |
-| --- | --- | --- |
-| Jul – Aug 2026 | Visiting Researcher | Kyoto Institute of Technology, Japan |
-| Jul – Aug 2026 | Visiting Researcher | Kyoto Prefectural Institute for Northern Industry, Japan |
+| Period | Position | Institution | Research advisor |
+| --- | --- | --- | --- |
+| Jul – Aug 2026 | Visiting Researcher | Kyoto Institute of Technology, Japan | Prof. Dongeun Choi |
+| Jul – Aug 2026 | Visiting Researcher | Kyoto Prefectural Institute for Northern Industry, Japan | — |
 
 ## Research Projects
 
