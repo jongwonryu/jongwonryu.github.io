@@ -1,72 +1,82 @@
+# Jongwon Ryu · 류종원
 
-<h1 align="center">
-AcadHomepage
-</h1>
+**Ph.D. Student in Artificial Intelligence**<br>
+Chung-Ang University · Seoul, Republic of Korea<br>
+[Academic website](https://jongwonryu.github.io/) · [Email](mailto:fbwhddnjs511@cau.ac.kr)
 
-<div align="center">
+## About Me
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
-</div>
+I am a Ph.D. student in Artificial Intelligence at Chung-Ang University. My research interests are **multimodal reasoning** and **image generation**, with work across language-model reasoning, image translation, synthetic data, and physical-world modeling. I previously earned an M.S. in Artificial Intelligence at Chung-Ang University and a B.S. in Mathematics at Dankook University.
 
-<p align="center">A Modern and Responsive Academic Personal Homepage</p>
+## Research Interests
 
-<p align="center">
-    <br>
-    <img src="docs/screenshot.png" width="100%"/>
-    <br>
-</p>
+Multimodal reasoning · Image generation · Language models · Image translation · Synthetic data
 
-Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
+## Education
 
-## Key Features
-- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
-- **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
-- **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
-- **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
-- **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
+| Period | Degree | Institution |
+| --- | --- | --- |
+| Mar 2025 – Feb 2029 (expected) | Ph.D. in Artificial Intelligence | Chung-Ang University |
+| Mar 2023 – Feb 2025 | M.S. in Artificial Intelligence | Chung-Ang University |
+| Mar 2017 – Feb 2023 | B.S. in Mathematics | Dankook University |
 
-## Quick Start
+## Research Experience
 
-1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
-1. Configure the google scholar citation crawler:
-    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
-    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
-1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
-1. Modify the configuration of your homepage `_config.yml`:
-    1. `title`: the title of your homepage
-    1. `description`: the description of your homepage
-    1. `repository`: USER_NAME/REPO_NAME  
-    1. `google_analytics_id` (optional): google analytics ID
-    1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
-    1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
-    1. More configuration details are described in the comments.
-1. Add your homepage content in `_pages/about.md`.
-    1. You can use html+markdown syntax just same as jekyll.
-    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
-        ```html
-        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
-        > Q: How to get the google scholar paper ID?   
-        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
-1. Your page will be published at `https://USERNAME.github.io`.
+| Period | Position | Institution |
+| --- | --- | --- |
+| Jul – Aug 2026 | Visiting Researcher | Kyoto Institute of Technology, Japan |
+| Jul – Aug 2026 | Visiting Researcher | Kyoto Prefectural Institute for Northern Industry, Japan |
 
-## Debug Locally
+## Research Projects
 
-1. Clone your REPO to local using `git clone`.
-1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
-1. Run `bash run_server.sh` to start Jekyll livereload server.
-1. Open http://127.0.0.1:4000 in your browser.
-1. If you change the source code of the website, the livereload server will automatically refresh.
-1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
+| Period | Project | Collaboration / support |
+| --- | --- | --- |
+| Apr 2026 – Dec 2029 | Development of Agent Technology for Architectural Heritage Restoration Design | ETRI; KHS (MCST) |
+| Jan 2023 – Dec 2026 | Development of Adaptively Evolving AI Technology for Strengthening Ethical Policies | KAIST AIM Lab.; IITP (MSIT) |
+| Mar – Dec 2025 | LLM Technology Research for NC Program Dataset Generation | Hyundai Motor Group, Manufacturing Solutions Division |
 
-# Acknowledges
+## Publications
 
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+**2026 · Journal and conferences**
+
+1. **Jongwon Ryu***, Jaehoon Go*, Trung X. Pham, and Junyeong Kim. “[MIST: Multi-Domain Synthetic Dataset for Rural Driving](https://doi.org/10.1109/ACCESS.2026.3725755).” *IEEE Access*.
+2. **Jongwon Ryu***, Joonhyung Park*, Jaeho Han, Yeong-Seok Kim, Hye-Rin Kim, Sunjae Yoon, and Junyeong Kim. “[Language-Grounded Multi-Domain Image Translation via Semantic Difference Guidance](https://aclanthology.org/2026.eacl-long.294/).” *EACL (Long Papers)*, pp. 6276–6288.
+3. Jisoo Yang*, **Jongwon Ryu***, Minuk Ma, Trung X. Pham, and Junyeong Kim. “[The Pragmatic Persona: Discovering LLM Persona Through Bridging Inference](https://doi.org/10.1007/978-3-032-31438-3_6).” *ICPR*, pp. 76–90.
+
+**2025 · Journals**
+
+1. **Jongwon Ryu**, Mingi Kim, and Junyeong Kim. “[Sparse MoE Students for Efficient Knowledge Distillation](https://doi.org/10.1109/ACCESS.2025.3623953).” *IEEE Access*, 13, 187373–187382.
+2. **Jongwon Ryu**, Mingi Kim, and Junyeong Kim. “[DYNA-SKILL: Dynamic Self-Prompting Knowledge Graphs for Improving Logical Reasoning in Language Models](https://doi.org/10.1109/ACCESS.2025.3626479).” *IEEE Access*, 13, 188326–188334.
+3. Mingi Kim, **Jongwon Ryu**, and Junyeong Kim. “Improving Worst-Group Accuracy With a Filtering-Based Method.” *IEEE Access*, 13, 214201–214210.
+
+**2025 · International workshops**
+
+1. **Jongwon Ryu***, Jisoo Yang*, Ye-eun Cho, and Junyeong Kim. “Discovering the Latent Persona of Large Language Models via Bridging Inference.” *NeurIPS Workshop on PersonaLLM*.
+2. **Jongwon Ryu**, Mingyu Jeon, Soomin Chung, and Junyeong Kim. “Enhancing Trustworthiness of Large Language Models through Dynamic Knowledge Graph Reasoning.” *NeurIPS Workshop on Responsible Foundation Models*.
+3. **Jongwon Ryu**, Mingyu Jeon, Woojun Jung, Minuk Ma, and Junyeong Kim. “Sparse MoE Students for Efficient Knowledge Distillation.” *CVPR Workshop on Humans in Human-Robot Interaction*.
+4. **Jongwon Ryu** and Junyeong Kim. “DYNA-SKILL: Dynamic Self-Prompting Knowledge Graphs for Improving Logical Reasoning in Large Models.” *AAAI Workshop on AI for Research*.
+
+**2025 · Domestic conference**
+
+1. **Jongwon Ryu** and Junyeong Kim. “Multimodal Learning-Based Formability Prediction of Automotive Body Parts Integrating 3D CAD Geometry and FEM Analysis Results.” *IEIE Summer Conference*, pp. 3807–3808.
+
+**2024**
+
+1. **Jongwon Ryu**, Jungeun Kim, and Junyeong Kim. “[A Study on the Representativeness Heuristics Problem in Large Language Models](https://doi.org/10.1109/ACCESS.2024.3474677).” *IEEE Access*, 12, 147958–147966.
+2. **Jongwon Ryu** and Junyeong Kim. “The Relationship Between Embedding and Deductive Reasoning Ability on BERT.” *IEEE International Conference on Consumer Electronics (ICCE)*, pp. 1–4.
+
+**2023 · Domestic conference**
+
+1. **Jongwon Ryu**, Mingi Kim, and Junyeong Kim. “Comparative Study on Korean Tokenization Using fastText.” *IEIE Summer Conference*, pp. 2819–2822.
+
+*Equal contribution is marked with an asterisk. Workshop publications are listed separately from main conference papers.*
+
+## Venue Metrics
+
+| Venue | Metric | Official source |
+| --- | --- | --- |
+| IEEE Access | Journal Impact Factor **4.2** (2025 JCR) | [IEEE Access](https://ieeeaccess.ieee.org/about/bibliometrics/) |
+| EACL | ICORE 2026 **A** | [ICORE](https://portal.core.edu.au/conf-ranks/468/) |
+| ICPR | ICORE 2026 **B** | [ICORE](https://portal.core.edu.au/conf-ranks/1169/) |
+
+These are venue-level metrics, not metrics for individual papers. Workshop papers do not inherit the main conference ranking. [Visit the academic website for the full profile.](https://jongwonryu.github.io/)
